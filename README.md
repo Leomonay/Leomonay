@@ -1,15 +1,14 @@
 ![image](https://user-images.githubusercontent.com/74567971/114473555-d984f300-9bca-11eb-8bb9-d254e17cea9d.png)
 
-I have recently finished Full Stack Developer course at soyHenry.com, where I learned a lot. 
-Some of the technologies I enjoy working with include: JavaScript, NodeJS, ReactJS, Sequelize.
+I a Full Stack Developer graduated from soyHenry.com bootcamp, where I learned currently useful technologies such as HTML, CSS, JavaScript, ReactJS, React Native, Redux, NodeJS, express, Sequelize, postgreSQL, mongoDB, mssql.
 
-The first project we made was a movie searcher React app, which worked with the IMDB api.
+I have pinned some projects that show my skills, like the [movie searcher](https://leomonay-movie-searcher.vercel.app/) , and the [movie searcher](https://leomonay-pokedex.vercel.app/), which is a Rest API with both frontend and backend, that also uses an external API.
 
-Then I made an Individual Project: the HenryDex. This is about an easy pokédex that allows searching by name, and shows a detail of the pokémon when clicked its name. It's also possible to create a new pokemon and add it to the list.
+Other project is an awesome tea e-commerce, called [Te Quiero](https://tequiero.vercel.app/)
 
-The final project is an awesome tea e-commerce, called "Te Quiero"
+I've been working for Tecla Coding Academy as a Teach Assitant and an Evaluation Tutor, and as Test Automation Engineer for Globant, where I learned Java basics, TestNG, Selenium and Appium.
 
-Now I'm searching for a remote job where I can develop my skills and continue learning. 
+I am currently working as freelancer for a company, and I'm searching for a remote job where I can develop my skills and continue learning.
 
 <!--
 **Leomonay/Leomonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
