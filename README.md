@@ -2,7 +2,7 @@
 
 I a Full Stack Developer graduated from soyHenry.com bootcamp, where I learned currently useful technologies such as HTML, CSS, JavaScript, ReactJS, React Native, Redux, NodeJS, express, Sequelize, postgreSQL, mongoDB, mssql.
 
-I have pinned some projects that show my skills, like the [movie searcher](https://leomonay-movie-searcher.vercel.app/) , and the [movie searcher](https://leomonay-pokedex.vercel.app/), which is a Rest API with both frontend and backend, that also uses an external API.
+I have pinned some projects that show my skills, like the [Movie Searcher](https://leomonay-movie-searcher.vercel.app/) , and the [HenryDex](https://leomonay-pokedex.vercel.app/), which is a Rest API with both frontend and backend, that also uses an external API.
 
 Other project is an awesome tea e-commerce, called [Te Quiero](https://tequiero.vercel.app/)
 
